@@ -7,8 +7,6 @@ MUVA is an open source system for the management and control of unmanned vehicle
 
 Reference designs are being developed using open source technologies such as FreeCAD, Kicad, QElectrotech and so on.  This is to ease the development and access of the project and allow anyone to participate and improve it.
 
-More to come.
-
 Thanks
 
 Anthony Harsant
